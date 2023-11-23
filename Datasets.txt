@@ -1,0 +1,21 @@
+
+         STROKE PREDICTION DATASET
+
+https://www.kaggle.com/code/harshghadiya/data-mining-in-stroke-prediction
+https://www.kaggle.com/code/abdulrahmankhaled1/stroke-prediction-ensemble-learning-for-beginners
+https://www.kaggle.com/code/adilashrafi/machine-learning-project
+https://www.kaggle.com/code/harshghadiya/data-mining-in-stroke-prediction
+
+                  
+
+
+
+             
+             AIRbnb PREDICTION DATASET
+
+https://www.kaggle.com/code/edatasasiz/data-exploration-and-analysis
+https://www.kaggle.com/code/soorajgupta7/airbnb-analysis
+https://www.kaggle.com/code/mehmetisik/airbnb-nyc-eda-price-prediction-ml
+https://www.kaggle.com/code/ahmetesencan/airbnb-nyc-price-prediction
+https://www.kaggle.com/code/dhirajbembade/nyc-airbnb-price-prediction
+	
